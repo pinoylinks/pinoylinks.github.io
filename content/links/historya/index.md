@@ -7,6 +7,6 @@ summary: Collection of essays on Philippine local & national histories, name
 draft: false
 categories: History
 tags:
-  - blog
+  - blogs
 external_link: https://anghistorya.blogspot.com/
 ---
