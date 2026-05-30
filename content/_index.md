@@ -16,6 +16,7 @@ sections:
           - zk
           - notes
           - notebooks
+          - links
         tags: []
         exclude_tags:
           - section
