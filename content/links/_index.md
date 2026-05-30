@@ -1,9 +1,9 @@
 ---
-title: Bookmarks
+title: Links
 cms_exclude: true
 
-tags:
-  - section
+# tags:
+#   - section
 
 # View.
 #   1 = List
