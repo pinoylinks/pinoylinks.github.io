@@ -1,0 +1,15 @@
+---
+title: Title 2
+linkTitle: Chapter 2
+date: 2025-02-06T15:18:56+08:00
+type: book
+weight: 2
+math: false
+highlight: false
+tags:
+  - chapter
+---
+
+<!--more-->
+
+wip.
