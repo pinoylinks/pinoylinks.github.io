@@ -7,18 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Bookmarks
-    url: bookmarks/
+  - name: Links
+    url: links/
     weight: 20
-  - name: Notes
-    url: notes/
-    weight: 30
-  - name: Notebooks
-    url: notebooks/
-    weight: 40
-  - name: ZK
-    url: zk/
-    weight: 50
   - name: Tags
     url: tag-cloud/
     weight: 60
