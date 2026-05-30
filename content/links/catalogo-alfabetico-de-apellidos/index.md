@@ -1,11 +1,10 @@
 ---
 title: Catalogo alfabetico de apellidos
-show_date: false
+show_date: true
 date: 2025-01-02T21:32:00+08:00
 draft: false
-categories: 🔖 Bookmarks
+categories: History
 tags:
-  - history
   - resources
   - book
 external_link: https://issuu.com/filipinasheritagelibrary/docs/catalogo_alfabetico_de_apellidos

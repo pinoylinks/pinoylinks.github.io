@@ -1,13 +1,12 @@
 ---
 title: Filipiniana Online at Issuu
-show_date: false
+show_date: true
 date: 2025-01-02T19:27:00+08:00
 summary: Filipiniana books collection by Filipinas Heritage Library at Issuu.
 draft: false
-categories: 🔖 Bookmarks
+categories: History
 tags:
   - resources
-  - history
 external_link: https://issuu.com/filipinasheritagelibrary
 links:
   - name: Twenty years in the Philippines
