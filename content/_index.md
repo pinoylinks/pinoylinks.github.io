@@ -23,7 +23,7 @@ sections:
           - chapter
         kinds:
           - page
-          - section
+          # - section
       sort_by: 'Date'
       sort_ascending: false
       default_button_index: 0
