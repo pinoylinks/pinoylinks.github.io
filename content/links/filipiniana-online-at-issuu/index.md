@@ -4,9 +4,10 @@ show_date: true
 date: 2025-01-02T19:27:00+08:00
 summary: Filipiniana books collection by Filipinas Heritage Library at Issuu.
 draft: false
-categories: History
 tags:
+  - history
   - resources
+  - book
 external_link: https://issuu.com/filipinasheritagelibrary
 links:
   - name: Twenty years in the Philippines
