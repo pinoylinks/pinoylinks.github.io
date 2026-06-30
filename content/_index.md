@@ -17,6 +17,7 @@ sections:
           - notes
           - notebooks
           - links
+          - blog
         tags: []
         exclude_tags:
           - section
@@ -40,8 +41,8 @@ sections:
           tag: courses
         - name: "#comics"
           tag: comics
-        - name: "#articles"
-          tag: articles
+        - name: "#essays"
+          tag: essays
         - name: "#blogs"
           tag: blogs
     design:
