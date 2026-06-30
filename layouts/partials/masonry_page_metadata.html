@@ -53,11 +53,13 @@
     <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
   {{ end}}
 
-  {{ $taxonomy := "categories" }}
+  <!-- Change categories to tags -->
+  {{ $taxonomy := "tags" }}
   {{ if $page.Param $taxonomy }}
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <!-- <i class="fas fa-folder mr-1"></i> -->
+    <!-- Change folder icon to tag icon -->
+    <i class="fas fa-tag mr-1"></i>
     {{- range $index, $value := ($page.GetTerms $taxonomy) -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
