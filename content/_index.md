@@ -30,14 +30,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: "#tools"
-          tag: tools
+        - name: "#gov"
+          tag: gov
+        - name: "#history"
+          tag: history
         - name: "#resources"
           tag: resources
         - name: "#courses"
           tag: courses
-        - name: "#games"
-          tag: games
         - name: "#comics"
           tag: comics
         - name: "#articles"
