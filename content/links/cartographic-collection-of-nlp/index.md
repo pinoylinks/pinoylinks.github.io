@@ -25,7 +25,7 @@ links:
   - name: Sample Maps
     icon_pack: fas
     icon: map
-    url: /links/cartographic-collection-of-nlp link/
+    url: /links/cartographic-collection-of-nlp/
 ---
 
 {{< gallery album="cartographic-collection-of-nlp" >}}
