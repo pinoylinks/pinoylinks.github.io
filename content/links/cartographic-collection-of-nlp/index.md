@@ -20,6 +20,12 @@ gallery_item:
 - album: cartographic-collection-of-nlp
   image: carte-du-canal-des-iles-philippines.jpg
   caption: "Carte Du Canal des Iles Philippines"
+
+links:
+  - name: Sample Maps
+    icon_pack: fas
+    icon: map
+    url: /links/cartographic-collection-of-nlp link/
 ---
 
 {{< gallery album="cartographic-collection-of-nlp" >}}
