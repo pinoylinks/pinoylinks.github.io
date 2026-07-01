@@ -6,7 +6,7 @@ summary: "La Biblioteca Nacional de España (BNE) es la institución bibliotecar
 draft: false
 tags:
   - history
-  - resources
+  - gallery
 external_link: https://www.flickr.com/photos/bibliotecabne/
 links:
   - url: https://www.flickr.com/photos/bibliotecabne/albums/72157632106172948/
