@@ -13,7 +13,7 @@ baseURL: 'https://pinoylinks.github.io/' # Website URL
 cascade:
   # Bookmarks post options
   - _target:
-      path: /bookmarks/**
+      path: /links/**
     editable: false
     reading_time: false
     commentable: false
@@ -22,18 +22,9 @@ cascade:
     show_breadcrumb: false
   # Notes post options
   - _target:
-      path: /notes/**
+      path: /blog/**
     editable: false
-    reading_time: true
-    commentable: true
-    show_related: true
-    pager: true
-    show_breadcrumb: false
-  # ZK post options
-  - _target:
-      path: /zk/**
-    editable: false
-    reading_time: true
+    reading_time: false
     commentable: true
     show_related: true
     pager: true
