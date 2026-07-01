@@ -6,7 +6,7 @@ summary: "BetterGov.ph is a volunteer-driven civic technology and open source mo
 draft: false
 tags:
   - gov
-  - resourses
+  - resources
 external_link: https://bettergov.ph/
 links:
   - url: https://about.bettergov.ph/projects
