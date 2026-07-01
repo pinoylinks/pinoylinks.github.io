@@ -1,14 +1,10 @@
-- query: Project Gutenberg
-  link: https://www.gutenberg.org/
-- query: Khan Academy
-  link: https://www.khanacademy.org/
-- query: Wordle
-  link: https://www.nytimes.com/games/wordle/index.html
-- query: ePubViewer
-  link: https://pgaskin.net/ePubViewer/
-- query: mental models box
-  link: https://www.mentalmodelsbox.com/
-- query: Rainy Mood
-  link: https://www.rainymood.com/
-- query: "#css"
-  link: /tag/css/
+- query: My.SSS Portal
+  link: https://sso.sss.gov.ph/wsso/logtype
+- query: 1987 Constitution
+  link: https://87con.github.io/
+- query: Techno Aklatan
+  link: https://nlpdl.nlp.gov.ph/TechnoAklatan.htm
+- query: "#gov"
+  link: /tag/gov/
+- query: "#history"
+  link: /tag/history/
