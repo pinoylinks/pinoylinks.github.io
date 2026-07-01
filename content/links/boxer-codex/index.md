@@ -11,6 +11,6 @@ external_link: https://archive.org/details/boxercodex
 links:
   - url: https://en.wikipedia.org/wiki/Boxer_Codex
     name: Wiki
-    icon_pack: fas
+    icon_pack: fab
     icon: wikipedia-w
 ---
