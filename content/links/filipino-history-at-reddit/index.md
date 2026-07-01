@@ -1,6 +1,6 @@
 ---
 title: FilipinoHistory at Reddit
-show_date: false
+show_date: true
 date: 2026-07-01T00:00:00+08:00
 summary: "Public forum for discussion of PH/Filipino people's history, archaeology, genomic studies, anthropology etc."
 draft: false
