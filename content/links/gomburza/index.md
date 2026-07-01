@@ -12,6 +12,6 @@ external_link: https://www.youtube.com/watch?v=iUlf9KtbqC8
 links:
   - url: https://en.wikipedia.org/wiki/Gomburza
     name: Wiki
-    icon_pack: fas
+    icon_pack: fab
     icon: wikipedia-w
 ---
