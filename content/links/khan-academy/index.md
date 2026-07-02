@@ -18,6 +18,6 @@ links:
     icon: app-store
   - url: https://www.khanacademy.org/kids
     name: Khan Academy Kids
-    icon_pack: fab
+    icon_pack: fas
     icon: shapes
 ---
