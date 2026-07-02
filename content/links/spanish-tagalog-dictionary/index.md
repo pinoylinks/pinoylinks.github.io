@@ -6,6 +6,8 @@ summary: Diccionario Hispano-Tagalog by Pedro Serrano Laktaw, published in 1889.
 draft: false
 tags:
   - dictionary
+  - resources
+  - language
 external_link: https://archive.org/details/diccionariohisp00laktgoog
 links:
   - url: https://archive.org/details/adr5080.0001.001.umich.edu/page/n1/mode/1up
