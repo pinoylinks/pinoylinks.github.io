@@ -19,6 +19,6 @@ links:
   - url: https://neal.fun/constellation-draw/
     name: Constellation Draw
     icon_pack: fas
-    icon: stars
+    icon: star
 ---
 
