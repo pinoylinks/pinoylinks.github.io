@@ -6,8 +6,9 @@ summary: Ilocano Spanish Dictionary published in 1849.
 draft: false
 categories: 
 tags:
-  - resources
   - dictionary
+  - resources
+  - language
 external_link: https://archive.org/details/vocabulariodela00librgoog
 links:
   - url: https://archive.org/details/aqa2024.0001.001.umich.edu/
