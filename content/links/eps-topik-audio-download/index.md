@@ -14,6 +14,7 @@ authors:
 tags:
   - resources
   - language
+  - post
 
 # image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
