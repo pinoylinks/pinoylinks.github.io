@@ -33,9 +33,9 @@ The book navigation on the official site is a pain in the a**. It's fancy but no
 
 I’ve also added audio for each chapter. These are direct links, so you can download them for offline listening.
 
-{{< note >}}
+{{% callout note %}}
 If the book is still slow, check out <https://epstopik.pages.dev>. It's a port of [HRD EPS TOPIK Books](https://epstopik.hrdkorea.or.kr/epstopik/book/self/ebookIndex.do?lang=en), made to be easier and faster.
-{{< /note >}}
+{{% /callout %}}
 
 ## Intro
 
