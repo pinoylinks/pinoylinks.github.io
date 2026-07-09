@@ -6,6 +6,6 @@ summary: "Pag-uusapan natin kung bakit mahirap hanapin ang kaligayahan, bakit pa
 draft: false
 tags:
   - essays
-  - video
+  - videos
 external_link: https://www.youtube.com/watch?v=MxR_8hXVgFY
 ---

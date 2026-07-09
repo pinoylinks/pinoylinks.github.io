@@ -6,7 +6,7 @@ summary: "Cambodia has Angkor Wat. Indonesia has Borobudur. Myanmar has Bagan. T
 draft: false
 tags:
   - essays
-  - video
+  - videos
   - history
 external_link: https://www.youtube.com/watch?v=X5amcX3wtwo
 ---

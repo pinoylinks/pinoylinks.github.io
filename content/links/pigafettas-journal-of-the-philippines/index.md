@@ -7,6 +7,6 @@ draft: false
 tags:
   - history
   - resources
-  - book
+  - books
 external_link: https://archive.org/details/magellansvoyagea01piga/page/n9/mode/2up
 ---

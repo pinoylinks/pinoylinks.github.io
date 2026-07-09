@@ -7,7 +7,7 @@ draft: false
 tags:
   - gov
   - resources
-  - book
+  - books
 external_link: https://87con.github.io/
 links:
   - url: https://87con.github.io/

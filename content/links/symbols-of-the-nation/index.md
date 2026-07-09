@@ -6,6 +6,6 @@ summary: "Symbols of The State Republic of The Philippines."
 draft: false
 tags:
   - gov
-  - book
+  - books
 external_link: https://archive.org/details/SymbolsOfTheStateRepublicOfThePhilippines
 ---

@@ -7,7 +7,7 @@ draft: false
 tags:
   - history
   - resources
-  - book
+  - books
 external_link: https://issuu.com/filipinasheritagelibrary
 links:
   - name: Twenty years in the Philippines

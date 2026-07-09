@@ -6,7 +6,7 @@ summary: "Felice Prudente Sta. Maria is a leading force in Philippine gastronomy
 draft: false
 tags:
   - history
-  - video
+  - videos
   - food
 external_link: https://www.youtube.com/watch?v=IvGNhKi67f8
 ---

@@ -6,7 +6,7 @@ summary: "The Boxer Codex is a late-16th-century Spanish manuscript produced in 
 draft: false
 tags:
   - history
-  - book
+  - books
 external_link: https://archive.org/details/boxercodex
 links:
   - url: https://en.wikipedia.org/wiki/Boxer_Codex

@@ -6,8 +6,8 @@ summary: "An NHCP documentary on GOMBURZA’s martyrdom, their life, death, and 
 draft: false
 tags:
   - history
-  - documentary
-  - video
+  - documentaries
+  - videos
 external_link: https://www.youtube.com/watch?v=iUlf9KtbqC8
 links:
   - url: https://en.wikipedia.org/wiki/Gomburza

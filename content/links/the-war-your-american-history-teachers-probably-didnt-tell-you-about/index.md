@@ -6,6 +6,6 @@ summary: "Mr. Beat tells the story of the Philippine-American War."
 draft: false
 tags:
   - history
-  - video
+  - videos
 external_link: https://www.youtube.com/watch?v=SbH8D381J-I
 ---

@@ -6,7 +6,7 @@ draft: false
 tags:
   - history
   - resources
-  - book
+  - books
 external_link: https://issuu.com/filipinasheritagelibrary/docs/catalogo_alfabetico_de_apellidos
 links:
   - icon_pack: fas
