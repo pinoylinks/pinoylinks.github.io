@@ -10,4 +10,9 @@ tags:
   - videos
   - history
 external_link: https://www.youtube.com/watch?v=X5amcX3wtwo
+links:
+  - url: https://www.youtube.com/@KirbyAraullo
+    name: Kirby Araullo
+    icon_pack: fab
+    icon: youtube
 ---

@@ -10,4 +10,9 @@ tags:
   - videos
   - food
 external_link: https://www.youtube.com/watch?v=IvGNhKi67f8
+links:
+  - url: https://www.youtube.com/@featrmedia
+    name: FEATR
+    icon_pack: fab
+    icon: youtube
 ---

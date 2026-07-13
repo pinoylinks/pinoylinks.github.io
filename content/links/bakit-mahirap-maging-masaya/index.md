@@ -9,4 +9,9 @@ tags:
   - essays
   - videos
 external_link: https://www.youtube.com/watch?v=MxR_8hXVgFY
+links:
+  - url: https://www.youtube.com/@MaySense...Paminsan-minsan
+    name: MSPM
+    icon_pack: fab
+    icon: youtube
 ---

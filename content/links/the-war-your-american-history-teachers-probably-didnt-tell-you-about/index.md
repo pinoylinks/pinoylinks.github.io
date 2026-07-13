@@ -9,4 +9,9 @@ tags:
   - history
   - videos
 external_link: https://www.youtube.com/watch?v=SbH8D381J-I
+links:
+  - url: https://www.youtube.com/@iammrbeat
+    name: Mr. Beat
+    icon_pack: fab
+    icon: youtube
 ---

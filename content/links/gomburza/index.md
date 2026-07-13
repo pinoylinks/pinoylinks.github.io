@@ -15,4 +15,8 @@ links:
     name: Wiki
     icon_pack: fab
     icon: wikipedia-w
+  - url: https://www.youtube.com/@NHCPOfficial
+    name: NHCP
+    icon_pack: fab
+    icon: youtube
 ---
