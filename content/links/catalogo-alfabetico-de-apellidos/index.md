@@ -2,6 +2,8 @@
 title: Catalogo alfabetico de apellidos
 show_date: true
 date: 2025-01-02T21:32:00+08:00
+subtitle: "List of surnames in the Philippines and other islands of Spanish East Indies published in the mid-19th century."
+summary: "List of surnames in the Philippines and other islands of Spanish East Indies published in the mid-19th century."
 draft: false
 tags:
   - history

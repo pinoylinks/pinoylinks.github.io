@@ -2,7 +2,8 @@
 title: Filipiniana Online at Issuu
 show_date: true
 date: 2025-01-02T19:27:00+08:00
-summary: Filipiniana books collection by Filipinas Heritage Library at Issuu.
+subtitle: "Filipiniana books collection by Filipinas Heritage Library at Issuu."
+summary: "Filipiniana books collection by Filipinas Heritage Library at Issuu."
 draft: false
 tags:
   - history

@@ -2,6 +2,7 @@
 title: "Family Search"
 show_date: true
 date: 2026-07-02T00:00:00+08:00
+subtitle: "Discover your ninuno, family photos, and records all for free—no spam and no ads."
 summary: "Discover your ninuno, family photos, and records all for free—no spam and no ads."
 draft: false
 tags:

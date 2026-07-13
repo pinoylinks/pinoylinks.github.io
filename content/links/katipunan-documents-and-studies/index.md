@@ -2,6 +2,7 @@
 title: "Katipunan Documents and Studies"
 show_date: true
 date: 2026-07-01T00:00:00+08:00
+subtitle: "This site is dedicated to the study of the Katipunan, the patriotic secret society that in 1896 launched the revolution against Spanish rule in the Philippines."
 summary: "This site is dedicated to the study of the Katipunan, the patriotic secret society that in 1896 launched the revolution against Spanish rule in the Philippines."
 draft: false
 tags:

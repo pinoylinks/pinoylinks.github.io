@@ -2,6 +2,7 @@
 title: PAGASA-DOST X
 show_date: true
 date: 2026-07-09T00:00:00+08:00
+subtitle: "The official Twitter account of Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA-DOST)."
 summary: "The official Twitter account of Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA-DOST)."
 draft: false
 tags:

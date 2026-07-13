@@ -2,7 +2,8 @@
 title: Vocabulario de la lengua Ilocana
 show_date: true
 date: 2026-06-30T00:00:00+08:00
-summary: Ilocano Spanish Dictionary published in 1849.
+subtitle: "Ilocano Spanish Dictionary published in 1849."
+summary: "Ilocano Spanish Dictionary published in 1849."
 draft: false
 categories: 
 tags:

@@ -2,6 +2,7 @@
 title: Filipino Librarian
 show_date: true
 date: 2026-07-01T00:00:00+08:00
+subtitle: "For those interested in knowing more about the Philippines, Filipiniana, Philippine libraries, and Filipino librarians."
 summary: "For those interested in knowing more about the Philippines, Filipiniana, Philippine libraries, and Filipino librarians."
 draft: false
 tags:

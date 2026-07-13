@@ -2,7 +2,8 @@
 title: Cartographic Collection of NLP
 show_date: true
 date: 2026-06-30T00:00:00+08:00
-summary: Cartographic Materials of the National Library of the Philippines.
+subtitle: "Cartographic Materials of the National Library of the Philippines."
+summary: "Cartographic Materials of the National Library of the Philippines."
 draft: false
 tags:
   - history

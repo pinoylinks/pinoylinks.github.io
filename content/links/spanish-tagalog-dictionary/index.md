@@ -2,7 +2,8 @@
 title: Spanish Tagalog Dictionary
 show_date: true
 date: 2026-07-01T00:00:00+08:00
-summary: Diccionario Hispano-Tagalog by Pedro Serrano Laktaw, published in 1889.
+subtitle: "Diccionario Hispano-Tagalog by Pedro Serrano Laktaw, published in 1889."
+summary: "Diccionario Hispano-Tagalog by Pedro Serrano Laktaw, published in 1889."
 draft: false
 tags:
   - dictionaries

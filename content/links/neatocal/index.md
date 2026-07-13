@@ -2,7 +2,8 @@
 title: NeatoCal
 show_date: true
 date: 2026-07-01T00:00:00+08:00
-summary: A single page printable calendar.
+subtitle: "A single page printable calendar."
+summary: "A single page printable calendar."
 draft: false
 tags:
   - calendars

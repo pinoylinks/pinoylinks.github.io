@@ -2,6 +2,7 @@
 title: "Biblioteca Nacional de España at Flickr"
 show_date: true
 date: 2026-07-01T00:00:00+08:00
+subtitle: "La Biblioteca Nacional de España (BNE) es la institución bibliotecaria superior del Estado y cabecera del Sistema Bibliotecario Español."
 summary: "La Biblioteca Nacional de España (BNE) es la institución bibliotecaria superior del Estado y cabecera del Sistema Bibliotecario Español."
 draft: false
 tags:

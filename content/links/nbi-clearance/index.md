@@ -2,6 +2,7 @@
 title: NBI Clearance
 show_date: true
 date: 2026-07-09T00:00:00+08:00
+subtitle: "NBI clearance online registration and application services."
 summary: "NBI clearance online registration and application services."
 draft: false
 tags:

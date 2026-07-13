@@ -2,7 +2,8 @@
 title: Neal.fun
 show_date: true
 date: 2026-07-02T00:00:00+08:00
-summary: Games, visualizations, interactives and other weird stuff.
+subtitle: "Games, visualizations, interactives and other weird stuff."
+summary: "Games, visualizations, interactives and other weird stuff."
 draft: false
 tags:
   - games

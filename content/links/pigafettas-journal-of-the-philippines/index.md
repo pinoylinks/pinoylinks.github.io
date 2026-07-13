@@ -2,7 +2,8 @@
 title: Pigafetta's journal of the Philippines
 show_date: true
 date: 2026-06-30T00:00:00+08:00
-summary: Magellan's voyage around the world.
+subtitle: "Magellan's voyage around the world."
+summary: "Magellan's voyage around the world."
 draft: false
 tags:
   - history

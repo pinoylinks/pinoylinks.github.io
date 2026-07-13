@@ -2,6 +2,7 @@
 title: "Khan Academy"
 show_date: true
 date: 2026-07-02T00:00:00+08:00
+subtitle: "Khan Academy helps schools personalize learning, strengthen core skills, and support every student, whether they’re catching up, keeping pace, or are ready to move ahead."
 summary: "Khan Academy helps schools personalize learning, strengthen core skills, and support every student, whether they’re catching up, keeping pace, or are ready to move ahead."
 draft: false
 tags:
