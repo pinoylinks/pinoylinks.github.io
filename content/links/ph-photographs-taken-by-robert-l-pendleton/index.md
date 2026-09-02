@@ -218,64 +218,64 @@ gallery_item:
   image: 60.webp
   caption: "(N. Slope Mayon volcano, Tiwi, Albay, 1934). North slope of Mayon [Volcano]; Tiwi, Albay. May 14 '34. Clear spring. Tiwi (sample). 11 1/25. Panatomic 6 x 6."
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 41.webp
+  image: 61.webp
   caption: "Bayombong, NV, 1935. 'Bayombong--Bagabag, Nueva Viscaya, Philippines. --KM 285. May 18, 19, '35. Juni, his wife & daughter.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 42.webp
+  image: 62.webp
   caption: "Iloilo, 1933. 'August 23, 1933. Iloilo. Cart.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 43.webp
+  image: 63.webp
   caption: "Laguna, 1934. 'Los Banos & Bay, Laguna. Dec. 26, 27, 1934. Ipilipil wood on sale at Tienda. Cero. Panatomic 6 x 6.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 44.webp
+  image: 64.webp
   caption: "Cabanatuan, NE, 1933. 'Cabanatuan & Bongabong Road, Nueva Ecija. Dec. 30 '33. [woman holding] Manuel Garcia, Jr."
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 45.webp
+  image: 65.webp
   caption: "UPLB, Laguna, 1933. 'Forestry Bureau Picnic & Tree Planting, Oct.1 1933. Lechon.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 46.webp
+  image: 66.webp
   caption: "Pasay, Manila, 1935. 'Jan. 12, 17, 1935. Wood in Pasay shop. Big bundles - Big Sticks 20 c. - small sticks 18. Tiny bundles, above, 1/2 cent.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 47.webp
+  image: 67.webp
   caption: "Upi Rd., Cotabato, 1933. 'August 30, 1933. Cotabato-Upi road. Moro; looking back along road, cogon beyond. Same site as 251-10. f.11 1/100.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 48.webp
+  image: 68.webp
   caption: "LB, Laguna, 1934. 'MM (Mitsuko M.) & Friends. Nov 1934'."
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 49.webp
+  image: 69.webp
   caption: "Mt. Makiling, Laguna, 1932. 'Forest camp, Puttinglupa, Mt. Makiling. Philippines. Anne [Pendleton], Mrs. Manresa, Tombo, & others.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 50.webp
+  image: 70.webp
   caption: "LB, Laguna, 1933. 'Nov. 1933. Caingineros bringing out papayas.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 51.webp
+  image: 71.webp
   caption: "Sitio Paliparan, LB, Laguna, 1934. 'Paliparan Reforestation, Los Banos. Laguna. Jan. 5 '34. Wood carriers. 5.6 1/100.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 52.webp
+  image: 72.webp
   caption: "Bagabag, NV, 1935. 'Bagabag Ferry, km 285, Nueva Vizcaya, Philippines. May 19, 1935. Similar [Erosion of cogon covered hills], from East crossing. Km 291. 11 1/25 G.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 53.webp
+  image: 73.webp
   caption: "Tunasan, ML-San Pedro, Laguna, 1935. 'Jan. 12, 17, 1935. Wood in candy & cigar shop. Not Bacanan. Big bundles 5 centeves. Small bundles 1/2 centeves.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 54.webp
+  image: 74.webp
   caption: "Cotabato City, Cotabato, 1933. 'August 31, 1933. Cotabato. Governor at his launch. Datu Sinsuat, Mr. Marques, etc. f.8 1/50'."
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 55.webp
+  image: 75.webp
   caption: "Baguio, Benguet, ~1928. 'Baguiom [Baguio], Mt. Province [Mountain Province now Benguet Province]. 1/2 only, not stereo, one lens NG. Dec. 1928 (?)'."
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 56.webp
+  image: 76.webp
   caption: "Baguio, Benguet, ~1928. 'Large pyramid shaped parade float with English slogans'."
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 57.webp
+  image: 77.webp
   caption: "Laguna, 1934. 'Animal Husbandry Pastures & forest, Lopez' area. Jan, 19 '34. Bakia blanks coming out of forest. 3.8 1/10. Eastman SS Panchromatic.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 58.webp
+  image: 78.webp
   caption: "Pila, Laguna, 1934. 'Barrios E of Pila, Esmalla's area, Laguna. Jan. 20 '34. Boys at Oogong river. 3.8 1/10. Eastman SS Panchromatic.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 59.webp
+  image: 79.webp
   caption: "Makiling Rd., Laguna, 1934. 'Bousman's Camp, Makiling Road, Laguna. Feb. 22, 1934. Anita Roa. 3.8 1/100.'"
 - album: ph-photographs-taken-by-robert-l-pendleton
-  image: 60.webp
+  image: 80.webp
   caption: "Dulawan, Cotabato (now Datu Piang, MS), 1933. 'August 31, 1933. Dulauan [Datu Piang], Cotabato Province [Maguindanao province]. Mindanao fig. 15'."
 ---
 
