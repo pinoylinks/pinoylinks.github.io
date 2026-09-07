@@ -21,20 +21,20 @@ draft: false
 links:
   - name: Part 1
     url: https://www.reddit.com/r/FilipinoHistory/comments/1vxlfy8/1930s_ph_photographs_taken_by_mn_born_soil/
-    icon_pack: fas
-    icon: link
+    icon_pack: fab
+    icon: reddit
   - name: Part 2
     url: https://www.reddit.com/r/FilipinoHistory/comments/1vzjjjt/1930s_photographs_taken_by_soil_scientist_and/
-    icon_pack: fas
-    icon: link
+    icon_pack: fab
+    icon: reddit
   - name: Part 3
     url: https://www.reddit.com/r/FilipinoHistory/comments/1w1a3s7/1930s_photographs_taken_by_soil_scientist_and/
-    icon_pack: fas
-    icon: link
+    icon_pack: fab
+    icon: reddit
   - name: Part 4
     url: https://www.reddit.com/r/FilipinoHistory/comments/1w4z3xu/1930s_photographs_taken_by_soil_scientist_and/
-    icon_pack: fas
-    icon: link
+    icon_pack: fab
+    icon: reddit
 
 gallery_item:
 - album: ph-photographs-taken-by-robert-l-pendleton
