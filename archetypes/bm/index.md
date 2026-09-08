@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 show_date: true
-date: {{ now.Format "2006-01-02" }}T14:00:00+08:00
+date: {{ now.Format "2006-01-02" }}
 subtitle: ""
 summary: ""
 draft: false
