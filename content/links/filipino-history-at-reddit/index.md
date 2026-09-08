@@ -8,6 +8,7 @@ draft: false
 tags:
   - blogs
   - history
+  - forums
 external_link: https://www.reddit.com/r/FilipinoHistory/
 links:
   - url: https://www.reddit.com/r/FilipinoHistory/comments/1jbm7en/filipino_history_book_recommendation_megathread/
