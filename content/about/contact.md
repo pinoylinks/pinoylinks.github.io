@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: pinoylinks@magaoay.org
+  email: pinoylinks@808070.xyz
 
 design:
   columns: '1'

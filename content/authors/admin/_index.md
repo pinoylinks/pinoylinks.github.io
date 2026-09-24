@@ -26,7 +26,7 @@ bio: The more I know, the more I realize I know nothing.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pinoylinks@magaoay.org'
+    link: 'mailto:pinoylinks@808070.xyz'
   - icon: github
     icon_pack: fab
     link: https://github.com/pinoylinks
