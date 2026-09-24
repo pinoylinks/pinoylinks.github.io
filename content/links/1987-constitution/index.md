@@ -9,13 +9,13 @@ tags:
   - gov
   - resources
   - books
-external_link: https://87con.github.io/
+external_link: https://www.1987constitution.org/
 links:
-  - url: https://87con.github.io/
+  - url: https://www.1987constitution.org/
     name: English Version
     icon_pack: fas
     icon: language
-  - url: https://87con.github.io/fil/
+  - url: https://www.1987constitution.org/fil/
     name: Filipino Version
     icon_pack: fas
     icon: language
